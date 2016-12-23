@@ -1,0 +1,9 @@
+{
+  "gemAuthorEmail": "paul@qwil.co",
+  "gemAuthor": "Paul Tiplady",
+  "gemDescription": "API client for the Qwil API.",
+  "gemHomepage": "https://github.com/qwil/ruby-api-client",
+  "gemLicense": "None",
+  "gemVersion": "0.1.0",
+  "moduleName": "QwilAPI"
+}
